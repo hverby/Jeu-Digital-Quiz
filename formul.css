@@ -1,0 +1,232 @@
+/***********************************************/
+/* Feuille de style Formul.                 */
+/***********************************************/
+
+
+body {
+		margin: 0;
+		padding: 0;
+		color: #000080;
+		background-color: rgba(0,0,0,0.9);
+		font-family : Verdana, Arial, Helvetica, sans-serif;
+		font-size: xxsmall;
+		text-align: center;
+}
+input {
+		background-color: gray;
+		color: blue;
+		font-family: arial, verdana, ms sans serif;
+		font-weight: bold;
+		font-size: 12pt;
+		text-align: center;
+}
+span.blue {
+		color: rgba(0,0,0,0.9);
+		font-weight: bold;
+		font-size: 12px;
+}
+span.green {
+		color: darkolivegreen;
+		font-weight: bold;
+}
+#imchoix{
+		background-image: url(images/finquiz.gif);
+		background-repeat: no-repeat;
+		background-color: lightskyblue;
+}		
+
+textarea {
+		background-color: rgba(0,0,0,0.9);
+		border: blue 2px solid;
+		color: white;
+		font-family: arial, verdana, ms sans serif;
+		font-size: 12pt;
+		font-weight: normal;
+		text-align: center;
+		overflow: hidden;
+}
+.tabpers{
+		width: 300px;
+		height: 250px;
+		border: 1px inset #808080;
+		text-align: center;
+} 
+#sigle2 {
+		position: absolute;
+		left: 1070px;
+		top: 98px;
+		height: 30px;
+		width: 43px;
+}
+#explic {
+		position: absolute;
+		left: 10px;
+		top: 20px;
+		height: 280px;
+		width: 310px;
+		text-align: center;
+		background-image: url(fond.jpg);
+		overflow: auto;
+}
+#contboutexit {
+		position: absolute;
+		left: 170px;
+		top: 355px;
+		height: 30px;
+		width: 80px;
+}
+.altButtonFormat {
+		background-color: #c0c0c0;
+		font-family: verdana;
+		border: #000000 1px solid;
+		font-size: 12px;
+		color: #778899;
+} 
+
+.altTextField {
+		background-color: #ececec;
+		font-family: verdana;
+		font-size: 12pt;
+		color: #09c09c;
+}
+.radioStyle {
+		background-color: #FF0000;
+		border: #000000 solid 1px;
+		font-family: verdana;
+		font-size: 12px;
+		color: #000000;
+}
+.bout {
+		border: 2px solid blue;
+		width: 140px;
+		background: gray;
+		cursor: hand;
+		text-align: center;
+}
+.bout2 {
+		border: 2px solid blue;
+		width: 200px;
+		background: gray;
+		cursor: hand;
+		text-align: center;
+}
+.bout3 {
+		border: 2px solid blue;
+		width: 40px;
+		background: gray;
+		cursor: hand;
+		font-size: 14px;
+		text-align: center;
+}
+#contf {
+		position: absolute;
+		left: 320px;
+		top: 20px;
+		height: 500px;
+		width: 280px;
+
+}
+
+#selecta {
+		position: absolute;
+		left: 20px;
+		top: 20px;
+		height: 160px;
+		width: 250px;
+		font-size: 12px;
+		text-align: left;
+		padding: 5px 0px 0px 5px;
+		background-color: #B9FBFD;
+		border: 1px solid blue;
+}
+#selectb {
+		position: absolute;
+		left: 290px;
+		top: 20px;
+		height: 160px;
+		width: 250px;
+		text-align: left;
+		font-size: 12px;
+		padding: 5px 0px 0px 5px;
+		background-color: #B9FBFD;
+		border: 1px solid blue;
+}
+
+#laureat {
+		position: absolute;
+		left: 970px;
+		top: 115px;
+		height: 150px;
+		width: 100px;
+		background-color: #FFFFFF;
+		border: 1px solid blue;
+}
+#quot{
+		color: yellow;
+		font-size: 12px;
+}
+#chrono{
+		font-size: 13px;
+}
+#comment {
+		position: absolute;
+		left: 945px;
+		top: 275px;
+		height: 30px;
+		width: 90px;
+		text-align: center;
+		font-size: 14px;
+}
+#contimquest {
+		position: absolute;
+		left: 555px;
+		top: 110px;
+		height: 137px;
+		width: 230px;
+		border: 1px solid blue;
+}
+.titre {
+		font-family: arial, verdana, ms sans serif;
+		font-size: 16pt;
+		font-weight: bold;
+		text-align: left;
+		color: green;
+}
+.texte {
+		font-family: arial, verdana, ms sans serif;
+		font-size: 10pt;
+		font-weight: normal;
+		text-align: left;
+		color: blue;
+}
+.textev {
+		font-family: arial, verdana, ms sans serif;
+		font-size: 10pt;
+		font-weight: normal;
+		text-align: left;
+		color: #006600;
+}
+.titreq {
+		font-family: arial, verdana, ms sans serif;
+		font-size: 18pt;
+		font-weight: bold;
+		text-align: center;
+		color: green;
+}
+.texteq {
+		font-family: arial, verdana, ms sans serif;
+		font-size: 17pt;
+		font-weight: normal;
+		text-align: center;
+		color: white;
+}
+.textevq {
+		font-family: arial, verdana, ms sans serif;
+		font-size: 12pt;
+		font-weight: normal;
+		text-align: center;
+		color: #006600;
+}
+.tabpers p { 
+color: white;
+}
